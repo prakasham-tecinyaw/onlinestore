@@ -1,0 +1,40 @@
+body{
+	padding-top: 50px;
+
+}
+
+#headerWrapper{
+	position: relative;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	height: 600px;
+	background-image: url(../images/headerlogo/background.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 700px;
+	background-position:  top center;
+	background-attachment: fixed;
+
+}
+
+#logotext{
+	height: 100%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url(../images/headerlogo/logo.png);
+
+}
+
+.img-thumb{
+	width: auto;
+	height: 200px;
+}
+#footer{
+	margin-top: 50px;
+}
+img.details{
+
+	margin: 15px auto;
+
+}
